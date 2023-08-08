@@ -19,6 +19,5 @@ In large size category school with 2000-5000 students, they have the lowest over
 
 -	Independent school outperform government school:
 In the table Score by School Type, we can see that the independent school outperforming the government school in all metrics. 
-Shout out to Ermiasgelaye & bdthai81 for the codes that I referred to. 
 
 
